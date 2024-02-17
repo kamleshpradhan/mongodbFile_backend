@@ -1,2 +1,2 @@
 # This Project stores files in mongodb and we can retrive the file form the frontend
-** Hello
+<p>Please check the repository has two branches main and frontend. We can pull the repo run the backend using the main branch and the frontend brach has space for user interaction where user can upload , download and delete files. The project also has auth login integration where user would require to use jwt to make login and upload files</p>
